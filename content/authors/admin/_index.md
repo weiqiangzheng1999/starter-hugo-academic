@@ -10,6 +10,8 @@ role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Department of Computer Science
+  url: https://cpsc.yale.edu/
 - name: Yale University
   url: https://www.yale.edu/
 
@@ -18,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Algorithmic Game theory
+- Algorithmic Game Theory
 - Min-Max Optimization
 - Computational Social Choice
 
@@ -27,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Yale University
-    year: 2021-present
+    year: 2021-Present
   - course: BSc in Computer Science and Technology
     institution: Peking University
     year: 2021
@@ -46,6 +48,9 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=YrfhnIwAAAAJ&hl=en&oi=sra
+- icon: dblp  
+  icon_pack: ai
+  link: https://dblp.org/pid/277/5088.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
