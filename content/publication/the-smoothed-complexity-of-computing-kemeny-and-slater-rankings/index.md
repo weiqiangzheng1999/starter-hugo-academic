@@ -23,10 +23,10 @@ abstract: >-
   In this paper, we develop the first smoothed complexity results for winner determination in voting.  We prove the smoothed hardness of Kemeny and Slater using the classical smoothed runtime analysis, and prove a parameterized typical-case smoothed easiness result for Kemeny. We also make an attempt of applying~\cites{Blaser2015:Smoothed}  smoothed complexity framework  in social choice contexts by proving that the framework categorizes an always-exponential-time brute force search algorithm as being smoothed poly-time, under a natural noise model based on the well-studied Mallows model in social choice and statistics. Overall, our results show that smoothed complexity analysis in computational social choice is a challenging and fruitful topic.
 draft: false
 featured: false
-url_pdf: https://arxiv.org/abs/2010.13020
 links:
-  name: Custom Link
+- name: Custom Link
   url: http://example.org
+url_pdf: https://arxiv.org/abs/2010.13020
 image:
   filename: ""
   focal_point: ""
