@@ -1,7 +1,7 @@
 ---
 title: Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions
 publication_types:
-  - "0"
+  - "1"
 authors:
   - xiaotie-deng
   - xinyan-hu
