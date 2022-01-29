@@ -1,6 +1,7 @@
 ---
 title: Weiqiang Zheng
 role: PhD Student
+avatar_filename: Weiqiang.jpeg
 bio: ""
 interests:
   - Algorithmic Game Theory
