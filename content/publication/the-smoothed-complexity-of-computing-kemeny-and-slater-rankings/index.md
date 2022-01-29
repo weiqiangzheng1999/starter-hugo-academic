@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Lirong Xia
-  - admin
+  - Weiqiang Zheng
 publication: the 35th AAAI Conference on Artificial Intelligence
 publication_short: AAAI
 abstract: >-
