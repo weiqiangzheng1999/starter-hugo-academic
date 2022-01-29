@@ -24,8 +24,8 @@ abstract: >-
 draft: false
 featured: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: arXiv
+  url: https://arxiv.org/abs/2010.13020
 url_pdf: https://arxiv.org/abs/2010.13020
 image:
   filename: ""
