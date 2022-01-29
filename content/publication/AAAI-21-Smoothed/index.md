@@ -15,6 +15,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2010.13020
+- name: video
+  url: https://slideslive.com/38948899/the-smoothed-complexity-of-computing-kemeny-and-slater-rankings
 #url_pdf: https://arxiv.org/abs/2010.13020
 image:
   filename: ""
