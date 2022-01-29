@@ -69,6 +69,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a first-year PhD student in Computer Science at Yale University, where I am very fortunate to be advised by Yang Cai. I received my bachelor’s degree in EECS at Peking University. My current research interest lies in the intersection between economics and computation, particularly on algorithmic game theory and learning theory.
+I am a first-year PhD student in Computer Science at Yale University, where I am very fortunate to be advised by 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[Yang Cai]: http://www.cs.yale.edu/homes/cai/
+
+. I received my bachelor’s degree in EECS at Peking University. My current research interest lies in the intersection between economics and computation, particularly on algorithmic game theory and learning theory.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
