@@ -5,6 +5,9 @@ publication_types:
 authors:
   - lirong-xia
   - admin
+author_notes:
+  - equal
+  - equal
 publication: the 35th AAAI Conference on Artificial Intelligence
 publication_short: AAAI
 abstract: >-
