@@ -21,7 +21,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Algorithmic Game Theory
-- Learning Theory
+- Machine Learning
 - Computational Social Choice
 
 # Education to show in About widget
@@ -70,4 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a first-year PhD student in Computer Science at Yale University, where I am very fortunate to be advised by [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at Peking University. My current research interest lies in the intersection between economics and computation, particularly on algorithmic game theory and learning theory.
+I am a first-year PhD student in Computer Science at Yale University, where I am very fortunate to be advised by [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at Peking University, where I was fortunate to be advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). My current research interest lies in the intersection between economics and computation, particularly on algorithmic game theory and Machine Learning. 
