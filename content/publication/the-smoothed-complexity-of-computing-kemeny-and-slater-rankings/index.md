@@ -3,10 +3,10 @@ title: The Smoothed Complexity of Computing Kemeny and Slater Rankings
 publication_types:
   - "1"
 authors:
-  - Lirong_Xia
+  - Lirong Xia
   - admin
 publication: the 35th AAAI Conference on Artificial Intelligence
-publication_short: AAAI 2021
+publication_short: AAAI
 abstract: >-
   The computational complexity of winner determination under common voting rules
   is a classical and fundamental topic in the field of computational social
@@ -26,5 +26,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-01-29T07:58:55.653Z
+date: 2021-01-01T08:02:23.393Z
 ---
