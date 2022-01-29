@@ -25,8 +25,8 @@ draft: false
 featured: false
 url_pdf: https://arxiv.org/abs/2010.13020
 links:
- - name: Custom Link
-    url: http://example.org
+- name: Custom Link
+   url: http://example.org
 image:
   filename: ""
   focal_point: ""
