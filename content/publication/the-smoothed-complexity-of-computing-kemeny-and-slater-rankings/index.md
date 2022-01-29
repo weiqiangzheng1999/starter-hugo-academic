@@ -3,6 +3,7 @@ title: The Smoothed Complexity of Computing Kemeny and Slater Rankings
 publication_types:
   - "1"
 authors:
+  - Lirong_Xia
   - admin
 publication: the 35th AAAI Conference on Artificial Intelligence
 publication_short: AAAI 2021
@@ -25,5 +26,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-01-29T07:30:23.058Z
+date: 2022-01-29T07:58:55.653Z
 ---
