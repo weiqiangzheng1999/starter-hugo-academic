@@ -3,8 +3,8 @@ title: The Smoothed Complexity of Computing Kemeny and Slater Rankings
 publication_types:
   - "1"
 authors:
-  - Lirong Xia
-  - Weiqiang Zheng
+  - lirong-xia
+  - admin
 publication: the 35th AAAI Conference on Artificial Intelligence
 publication_short: AAAI
 abstract: >-
