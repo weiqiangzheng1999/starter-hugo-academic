@@ -21,16 +21,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Algorithmic Game Theory
-- Min-Max Optimization
+- Learning Theory
 - Computational Social Choice
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: Yale University
-    year: 2021-Present
-  - course: BSc in Computer Science and Technology
+  - course: BSc in EECS
     institution: Peking University
     year: 2021
 
@@ -72,8 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first-year PhD student in Computer Science at Yale University, where I am very fortunate to be advised by Yang Cai. I received my bachelor’s degree in EECS at Peking University. My current research interest lies in the intersection between economics and computation, particularly on algorithmic game theory and learning theory.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
