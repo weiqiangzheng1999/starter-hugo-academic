@@ -24,19 +24,20 @@ abstract: >-
   bidders approaches a Nash equilibrium in the limit. Specifically, the results
   depend on the number of bidders with the highest value:
 
-
   -If the number is at least three, the bidding dynamics almost surely converges to a Nash equilibrium of the auction, both in time-average and in last-iterate.  
-
 
   -If the number is two, the bidding dynamics almost surely converges to a Nash equilibrium in time-average but not necessarily in last-iterate.
 
-
   -If the number is one, the bidding dynamics may not converge to a Nash equilibrium in time-average nor in last-iterate. 
-
 
   Our discovery opens up new possibilities in the study of convergence dynamics of learning algorithms.
 draft: false
 featured: false
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2110.03906
+- name: video
+  url: https://www.youtube.com/watch?v=FdnZxppKrKk&t=1s
 image:
   filename: ""
   focal_point: Smart
