@@ -28,7 +28,7 @@ experience:
     location: California
     date_start: '2022-01-13'
     date_end: ''
-    description: Participate the [Learning and Games](https://simons.berkeley.edu/programs/games2022) Program.
+    description: Participate the Learning and Games Program.
         
   - title: Research Assistant
     company: Center on Frontiers of Computing Studies, Peking University
@@ -36,7 +36,7 @@ experience:
     location: California
     date_start: '2019-05-01'
     date_end: '2021-9-01'
-    description: Advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
+    description: Advised by Xiaotie Deng.
 
 design:
   columns: '2'
