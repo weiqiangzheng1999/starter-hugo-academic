@@ -25,7 +25,7 @@ experience:
   - title: Visiting Graduate Student
     company: Simons Institute for the Theory of Computing, UC Berkeley
     company_url: https://simons.berkeley.edu/
-    location: California
+    location: California, U.S.
     date_start: '2022-01-13'
     date_end: ''
     description: Participate the [Learning and Games](https://simons.berkeley.edu/programs/games2022) Program.
@@ -33,10 +33,10 @@ experience:
   - title: Research Assistant
     company: Center on Frontiers of Computing Studies, Peking University
     company_url: https://cfcs.pku.edu.cn/english/
-    location: California
+    location: Beijing, China
     date_start: '2019-05-01'
     date_end: '2021-09-01'
-    description: Advised by [Xiaotie Deng]().
+    description: Advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 design:
   columns: '2'
