@@ -22,28 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
+  - title: Visiting Graduate Student
+    company: Simons Institute for the Theory of Computing, UC Berkeley
+    company_url: https://simons.berkeley.edu/
     location: California
-    date_start: '2021-01-01'
+    date_start: '2022-01-13'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Participate the [Learning and Games](https://simons.berkeley.edu/programs/games2022) Program.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
+  - title: Research Assistant
+    company: Center on Frontiers of Computing Studies, Peking University
+    company_url: https://cfcs.pku.edu.cn/english/
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-05-01'
+    date_end: '2021-9-01'
+    description: Advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 design:
   columns: '2'
