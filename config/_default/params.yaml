@@ -146,8 +146,8 @@ map:
   zoom: 15
 marketing:
   google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
+  google_tag_manager: w2SFycyQjmx6LL8p8z4EVczJE7X8WVw0gbj3KLs6tkk
+  google_site_verification: w2SFycyQjmx6LL8p8z4EVczJE7X8WVw0gbj3KLs6tkk
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
