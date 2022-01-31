@@ -4,8 +4,8 @@ role: PhD Student
 avatar_filename: Weiqiang.jpeg
 bio: ""
 interests:
-  - Algorithmic Game Theory
-  - Machine Learning
+  - Algorithmic Game theory
+  - Learning
   - Computational Social Choice
 social:
   - icon: envelope
@@ -27,9 +27,9 @@ education:
     - course: BSc in EECS
       institution: Peking University
       year: 2021
-email: ""
+email: weiqiang.zheng@yale.edu
 superuser: true
 highlight_name: true
 ---
 
-I am a first-year PhD student in Computer Science at Yale University, where I am fortunate to be advised by [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at Peking University, where I was fortunate to be advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). My current research interest lies in the intersection between Economics and Computation, particularly on Algorithmic Game Theory and Machine Learning. 
+I am a first-year PhD student in Computer Science at [Yale University](https://www.yale.edu/), where I am fortunate to be advised by [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). My current research interest lies in the intersection between Economics and Computation, particularly on Algorithmic Game Theory and Learning. 
