@@ -12,9 +12,9 @@ authors:
 author_notes:
   - "Equal Contribution"
   - "Equal Contribution"
-publication: Proceeding of the 21st International Conference on Autonomous
+publication: Proceedings of the 21st International Conference on Autonomous
   Agents and Multiagent System (AAMAS 2022)
-publication_short: Proceeding of the 21st International Conference on Autonomous
+publication_short: Proceedings of the 21st International Conference on Autonomous
   Agents and Multiagent System (AAMAS 2022)
 abstract: >-
   A new mobile attention economy has emerged with the explosive growth of
