@@ -39,6 +39,6 @@ design:
   view: 4
 ---
 
-Alphabetical author order unless specific note.
+Authors are in alphabetical order without additional note
 
 ----------------------------------------------------------------------------------------------------------
