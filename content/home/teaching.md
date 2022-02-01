@@ -19,18 +19,11 @@ design:
   columns: "2"
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+As a teaching assistant at Peking University
 
-[Explore similar templates](https://wowchemy.com/templates/)
-
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
-
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
-
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /callout %}}
+- Foundamentals of Cryptography, Fall 2021
+- Introduction to Computer Systems, Fall 2021
+- Algorithm Design and Analysis, Spring 2021
+- Introduction to Computer Systems, Fall 2020
 
 ----------------------------------------------------------------------------------------------------------
