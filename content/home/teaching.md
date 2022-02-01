@@ -25,5 +25,3 @@ As a teaching assistant at Peking University
 - Introduction to Computer Systems, Fall 2021
 - Algorithm Design and Analysis, Spring 2021
 - Introduction to Computer Systems, Fall 2020
-
-----------------------------------------------------------------------------------------------------------
