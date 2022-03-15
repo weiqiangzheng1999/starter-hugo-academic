@@ -24,7 +24,7 @@ organizations:
     url: https://www.yale.edu/
 education:
   courses:
-    - course: BSc in EECS
+    - course: BSc (Summa Cum Laude) in Computer Science
       institution: Peking University
       year: 2021
 email: weiqiang.zheng@yale.edu
