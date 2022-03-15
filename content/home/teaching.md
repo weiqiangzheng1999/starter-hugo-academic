@@ -19,7 +19,7 @@ design:
   columns: "2"
 ---
 
-As a teaching assistant at Peking University
+As a teaching assistant at Peking University, Beijing, China.
 
 - Foundamentals of Cryptography, Fall 2021
 - Introduction to Computer Systems, Fall 2021
