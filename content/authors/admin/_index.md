@@ -32,4 +32,6 @@ superuser: true
 highlight_name: true
 ---
 
-I am a first-year PhD student in Computer Science at [Yale University](https://www.yale.edu/), where I am fortunate to be advised by [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). My current research interest lies in the intersection between Economics and Computation, particularly on Algorithmic Game Theory and Learning. 
+I am a first-year PhD student in Computer Science at [Yale University](https://www.yale.edu/), where I am fortunate to be advised by Prof. [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). During my undergraduate study, I also worked closely with Prof. [Lirong Xia](https://www.cs.rpi.edu/~xial/).
+
+My current research interest lies in Economics and Computation, particularly on Algorithmic Game Theory and Min-Max Optimization. 
