@@ -9,7 +9,7 @@ authors:
 author_notes: []
 publication: Working Paper
 publication_short: Working Paper
-abstract: >- as.
+abstract: >-
 draft: false
 featured: false
 links:
