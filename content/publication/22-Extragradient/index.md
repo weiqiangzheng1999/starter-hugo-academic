@@ -7,6 +7,9 @@ authors:
   - yang-cai
   - argyris-oikonomou
   - admin
+author_notes: []
+publication: Working Paper
+publication_short: Working Paper
 abstract: "  The monotone variational inequality is a central problem in
   mathematical programming that unifies and generalizes many important settings
   such as smooth convex optimization, two player zero-sum games, convex-concave
