@@ -28,6 +28,9 @@ abstract: "  The monotone variational inequality is a central problem in
   applications in the analysis of iterative methods."
 draft: false
 featured: false
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2204.09228
 image:
   filename: featured
   focal_point: Smart
