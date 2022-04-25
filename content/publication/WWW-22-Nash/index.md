@@ -7,8 +7,8 @@ authors:
   - xinyan-hu
   - tao-lin
   - admin
-publication: Proceedings of the ACM Web Conference (TheWebConf 2022)
-publication_short: Proceedings of the ACM Web Conference (TheWebConf 2022)
+publication: Proceedings of the ACM Web Conference (WWW 2022)
+publication_short: Proceedings of the ACM Web Conference (WWW 2022)
 abstract: >-
   Understanding the convergence properties of learning dynamics in repeated
   auctions is a timely and important question in the area of learning in
