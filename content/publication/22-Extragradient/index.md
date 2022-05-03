@@ -34,6 +34,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2204.09228
+- name: video
+  url: https://www.youtube.com/watch?v=cFYABnzjvJI&t=1s&ab_channel=SimonsInstitute
 image:
   filename: featured
   focal_point: Smart
