@@ -29,7 +29,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2110.03906
 - name: video
-  url: https://www.youtube.com/watch?v=HIcOX28U_r0&ab_channel=XinyanHu
+  url: https://www.youtube.com/watch?v=FdnZxppKrKk&t=1s
 - name: doi
   url: https://dl.acm.org/doi/10.1145/3485447.3512059
 image:
