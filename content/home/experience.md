@@ -27,7 +27,7 @@ experience:
     company_url: https://simons.berkeley.edu/
     location: California, U.S.
     date_start: '2022-01-13'
-    date_end: ''
+    date_end: '2022-05-13'
     description: Participate the [Learning and Games](https://simons.berkeley.edu/programs/games2022) Program.
         
   - title: Research Assistant
