@@ -39,6 +39,6 @@ design:
   view: 4
 ---
 
-Authors are in alphabetical order without additional note
+Authors are in [alphabetical order](https://en.wikipedia.org/wiki/Academic_authorship#Authorship_in_mathematics,_theoretical_computer_science_and_high_energy_physics) without additional note
 
 ----------------------------------------------------------------------------------------------------------
